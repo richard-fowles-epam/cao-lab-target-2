@@ -1,0 +1,11 @@
+{
+  "name": "cao-lab-target-2",
+  "version": "1.0.0",
+  "description": "Format a list of names as a single string.",
+  "main": "index.js",
+  "private": true,
+  "license": "MIT",
+  "scripts": {
+    "test": "node --test"
+  }
+}
