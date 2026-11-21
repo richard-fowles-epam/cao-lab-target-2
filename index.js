@@ -2,7 +2,7 @@
 
 function formatNames(names) {
   if (names.length === 0) {
-    return 'No names provided';
+    return '';
   }
   return names.join(', ');
 }
